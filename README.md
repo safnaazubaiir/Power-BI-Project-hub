@@ -47,21 +47,21 @@ The project uses three datasets: Sales, Current Stock, and Supplier to analyse b
 - Sales & Return Overview: Shows the distribution of sales and return transactions and provides an overview of the return rate.
 - Revenue by Price Level: Compares revenue generated across different product price categories.
   
-**INVENTORY ANALYSIS**
+ **INVENTORY ANALYSIS**
 
 - Stock Quantity by Brand: Compares the total stock quantities available across different tyre brands and identifies brands with the highest and lowest stock        levels.
 - Top 5 Products by Stock Quantity: Highlights the five products with the highest available stock quantities.
 - Inventory Value by Brand: Compares the total inventory value of different brands and identifies which brands hold the highest stock value.
 - Number of Products by Last Restock Date: Shows the number of products restocked each month and helps understand restocking patterns.
  
-**SUPPLIER ANALYSIS**
+ **SUPPLIER ANALYSIS**
 
 - Brand-Supplier Mapping: Shows the relationship between tyre brands and their respective suppliers.
 - Average Lead Time by Supplier: Compares the average delivery lead time of different suppliers and identifies the fastest and slowest suppliers.
 - Supplier Delivery Performance: Compares the minimum and maximum delivery lead times to understand supplier delivery performance.
 - Lead Time Variation by Supplier: Shows the variation in delivery times across suppliers and helps identify suppliers with more consistent or inconsistent          delivery performance.
 
-**SLICERS & FILTERS** 
+ **SLICERS & FILTERS** 
 
 - Brand: Filters the dashboard based on different tyre brands.
 - Price Level: Filters products according to their price categories.
